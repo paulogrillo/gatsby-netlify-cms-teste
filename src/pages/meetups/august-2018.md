@@ -3,9 +3,9 @@ templateKey: meetup
 title: August 2018
 date: 2018-08-14T23:00:00.000Z
 presenters:
-  - image: /img/ramy-kabalan-796973-unsplash.jpg
-    name: Fred Champ
-    presentationTitle: Network optimizations 101
+  - image: /img/vercel.jpg
+    name: React
+    presentationTitle: React
     text: >+
       If you have an application that requires network requests to run, you
       might want to come watch this presentation. We'll cover congestion
